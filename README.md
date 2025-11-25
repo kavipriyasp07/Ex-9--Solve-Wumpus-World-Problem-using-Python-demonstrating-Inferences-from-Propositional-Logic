@@ -3,7 +3,7 @@
 <h3>Register Number:2305002011          </h3>
 <H3>Aim:</H3>
 <p>
-    To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
+    To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic 
 </p>
 <h1>Problem Description</h1>
 <hr>
